@@ -1,2 +1,3 @@
 # hello-world
-hello word ig
+
+This is me trying to get used to github
